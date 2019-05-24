@@ -11,15 +11,18 @@ It is divided into four parts:
 	- Data formatting
 	- Data normalization
 	- Binning
+	
 2) Exploratory Data Analysis
 	- Descriptive statistics
 	- Groupby
 	- Analysis of variance
 	- Correlation
 	- Correlation stats
+	
 3) Model Development
 	- Simple Linear Regression
 	- Multiple Linear Regression
+	
 4) Model Evaluation
 	- Regression Plots
 	- Distribution Plots
