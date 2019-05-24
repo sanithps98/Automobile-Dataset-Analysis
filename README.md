@@ -1,5 +1,5 @@
 
-## Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Setet.
+## Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Set
 
 In this project I'm trying to analyze and visualize the Used Car Prices from the dataset available at https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data in order to predict the most probable car price
 
