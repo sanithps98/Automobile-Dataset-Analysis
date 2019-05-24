@@ -29,7 +29,7 @@ It is divided into four parts:
 
 ## Softwares and Libraries Used:
 
-        - Anaconda Distribution
+       - Anaconda Distribution
 	- Jupyter Notebook
 	
 	- Numpy
