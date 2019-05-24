@@ -1,10 +1,10 @@
-# automobile-data-set-analysis
 
-## Data Analysis and Prediction of Car Prices based on used car prices data set.
-In this project I'm trying to analyze and visualize the used car prices from
-the dataset available at https://archive.ics.uci.edu/ml/machine-learning-databases/autos/
+## Data Analysis and Visualisation to predict Car Prices based on Used Car Prices Data Setet.
 
-I'm planning to divide it in four parts:
+In this project I'm trying to analyze and visualize the Used Car Prices from the dataset available at https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data in order to predict the most probable car price
+
+It is divided into four parts:
+
 1) Data Wrangling
 	-pre processing data in python
 	-dealing missing values
@@ -24,27 +24,9 @@ I'm planning to divide it in four parts:
 	- Regression Plots
 	- Distribution Plots
 
-
-## Description:
-
-	  This data set consists of three types of entities: (a) the
-      specification of an auto in terms of various characteristics, (b)
-      its assigned insurance risk rating, (c) its normalized losses in use
-      as compared to other cars.  The second rating corresponds to the
-      degree to which the auto is more risky than its price indicates.
-      Cars are initially assigned a risk factor symbol associated with its
-      price.   Then, if it is more risky (or less), this symbol is
-      adjusted by moving it up (or down) the scale.  Actuarians call this
-      process "symboling".  A value of +3 indicates that the auto is
-      risky, -3 that it is probably pretty safe.
-
-      The third factor is the relative average loss payment per insured
-      vehicle year.  This value is normalized for all autos within a
-      particular size classification (two-door small, station wagons,
-      sports/speciality, etc...), and represents the average loss per car
-      per year.
-
-
+## Softwares Used:
+        - Anaconda Distribution
+	- Jupyter Notebook
 ## Importing the Modules:
 
 	  import pandas as pd
@@ -89,4 +71,4 @@ I'm planning to divide it in four parts:
 ## Conclusion
 
 The distribution plot of Linear Regression and Multiple Regression technique shows how
- the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size", "highway-mpg"
+the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size" and "highway-mpg"
