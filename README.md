@@ -6,17 +6,17 @@ In this project I'm trying to analyze and visualize the Used Car Prices from the
 It is divided into four parts:
 
 1) Data Wrangling
-	-pre processing data in python
-	-dealing missing values
-	-data formatting
-	-data normalization
-	-binning
+	- Pre processing data in python
+	- Dealing missing values
+	- Data formatting
+	- Data normalization
+	- Binning
 2) Exploratory Data Analysis
-	-descriptive statistics
-	-groupby
-	-analysis of variance
-	-correlation
-	-correlation stats
+	- Descriptive statistics
+	- Groupby
+	- Analysis of variance
+	- Correlation
+	- Correlation stats
 3) Model Development
 	- Simple Linear Regression
 	- Multiple Linear Regression
@@ -25,8 +25,10 @@ It is divided into four parts:
 	- Distribution Plots
 
 ## Softwares Used:
+
         - Anaconda Distribution
 	- Jupyter Notebook
+	
 ## Importing the Modules:
 
 	  import pandas as pd
