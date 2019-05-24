@@ -27,10 +27,15 @@ It is divided into four parts:
 	- Regression Plots
 	- Distribution Plots
 
-## Softwares Used:
+## Softwares and Libraries Used:
 
         - Anaconda Distribution
 	- Jupyter Notebook
+	
+	- Numpy
+	- Pandas
+	- Matplotlib
+	- Seaborn
 	
 ## Importing the Modules:
 
