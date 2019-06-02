@@ -23,7 +23,7 @@ It is divided into four parts:
 	- Simple Linear Regression
 	- Multiple Linear Regression
 	
-4) Model Evaluation
+4) Model Review and Evaluation
 	- Regression Plots
 	- Distribution Plots
 
