@@ -83,5 +83,3 @@ It is divided into four parts:
 The distribution plot of Linear Regression and Multiple Regression technique shows how
 the model predicts the prices of automobiles based on "horsepower", "curb-weight", "engine-size" and "highway-mpg"
 <p>Comparing these three models, we conclude that <b>the MLR model is the best model</b> to be able to predict price from our dataset. This result makes sense, since we have 27 variables in total, and we know that more than one of those variables are potential predictors of the final car price.</p>
-
-<p><b> Pull Requests are Welcome !! </br></p>
